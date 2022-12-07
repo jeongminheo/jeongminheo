@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ <img src="https://img.shields.io/badge/MAIL-3178C6?style=flat&logo=Gmail&logoColor=#EA4335"/>
 <!--
 **jeongminheo/jeongminheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
